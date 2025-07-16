@@ -27,9 +27,3 @@ Aqui no GitHub, você vai encontrar meus projetos, estudos e experimentos enquan
   <img align="left" width="22px" height="22px" alt="icone linkedin" src="https://github.com/user-attachments/assets/1fb9f474-91b9-4a34-8da3-55eb65f6b68a"/>
   </a>
 </p>
-
-<br />
-<br />
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/andrew-costaa)](https://github.com/anuraghazra/github-readme-stats)
